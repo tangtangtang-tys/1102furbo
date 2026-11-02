@@ -1,0 +1,11 @@
+{
+  "research_images": 39,
+  "distinct_evidence_ids": 38,
+  "environment_images": 2,
+  "missing_local_paths": [],
+  "original_hashes_unchanged": true,
+  "unclassified": 0,
+  "no_base64": true,
+  "python39_syntax": true,
+  "report_size_bytes": 178192
+}

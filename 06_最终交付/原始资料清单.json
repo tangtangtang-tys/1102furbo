@@ -1,0 +1,413 @@
+{
+  "generated_at": "2026-10-31T18:06:33+08:00",
+  "original_document_count": 8,
+  "all_original_png_count": 41,
+  "phase1_screenshot_count": 39,
+  "environment_screenshot_count": 2,
+  "evidence_group_count": 38,
+  "associated_phase1_screenshots": 39,
+  "unclassified_screenshots": 0,
+  "completed_research_chapters": 3,
+  "research_chapters": 11,
+  "chapter_count_rule": "研究章节为目录中产品基础档案至创新机会共11章；项目概览与证据索引不纳入。已完成指当前阶段文档与页面走查完成，不代表能力实测完成。",
+  "documents": [
+    {
+      "path": "00_项目管理/测评环境信息.md",
+      "sha256": "8365109b086839bebc295a846df97c0d79ea039bb50ae61002b11ab1facdf371"
+    },
+    {
+      "path": "00_项目管理/测评计划.md",
+      "sha256": "0d9abf309dcb6484667c6d8f4379b7a97ceca96d4954260e945af58fa56ffe2b"
+    },
+    {
+      "path": "00_项目管理/测评进度总览.md",
+      "sha256": "4cd0b2a5d852c76f54f0a529ceda2d19a51d8769aff9828c4814c28222cbd44a"
+    },
+    {
+      "path": "01_产品基础档案/App信息架构.md",
+      "sha256": "2021f9601aa2a8ccb232013a37699bc91a5e807e71d76eb51dc88eed266d3ea1"
+    },
+    {
+      "path": "01_产品基础档案/硬件能力清单.md",
+      "sha256": "183020a57e1f67942272fcf6a47c3970552e80e1aac144f1e351f049b67a89b0"
+    },
+    {
+      "path": "01_产品基础档案/设备基础信息.md",
+      "sha256": "6907bad00081612aee7be18a7060eeec1d8732a9d7d0a68105410ff2c951e9a8"
+    },
+    {
+      "path": "02_App体验测评/首页体验测评.md",
+      "sha256": "6f4a669e40fc42d8a42c1f1014e9ddb1c0f62a1cb95d77438b522cb02ed62437"
+    },
+    {
+      "path": "evidence/阶段1_基础档案_证据索引.md",
+      "sha256": "3629a1a0b6194d2e36101447481d0a91863b51db9e046f4b0410dd7a24d3c00d"
+    }
+  ],
+  "original_screenshots": [
+    {
+      "path": "screenshots/00_环境检查_手机镜像可见.png",
+      "sha256": "cda5c6a841d8566302670e88c0fd76527fb6d4ca2dac297fe7a4d6d9ecf1e9aa"
+    },
+    {
+      "path": "screenshots/00_环境检查_桌面截图.png",
+      "sha256": "004aa588d305ec31e2aede2c5acdf7f1ef896672513648835794ab11a2d9f7f1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/01_首页_底部导航可见.png",
+      "sha256": "ca9b71f1444b0ade7855eca72cd30a967106762b869b5dfe36552c91d076a7f1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/02_报告页_日志与视频卡片.png",
+      "sha256": "8c78181d7b43966e830c6eb276fa925b068905b4df82a5d2041cc2ad6bc8d976"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/03_AI对话_消息流.png",
+      "sha256": "07db037ac805044beae503c25a63f2351d00875f279f250aea842b4b26597c4a"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/04_视频回放_可返回.png",
+      "sha256": "d23cac28a3f02c7f0e7b3825b1b3ae44eb9f3f32aae225ff0e20bd58fa5817db"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/05_AI对话_视频回放返回后.png",
+      "sha256": "5c9e22306e9a4fb2c0de63c998531460638bf72c8b5299c607a1408fe43c9261"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/06_视频_录像回放页.png",
+      "sha256": "f2490c26c099c9fe74006453cb1b3e1326d18ce8c3365e3be9730c940a891041"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/07_菜单_账号会员App设置.png",
+      "sha256": "0881790f4098a802cd73a664d86fdd7b7b5eb8ad26372bed8f335f8def017e1d"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/08_首页_连接中断反馈.png",
+      "sha256": "1b53762d4e703882d3817c41bbaf5cfd04c5e989ee840ac53625cd50c1648d97"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/09_视频_录像回放列表.png",
+      "sha256": "787ee3ef45249ee997cae2e9b2a27beba0ce67cae47e7ccdf268230e807bbed8"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/10_20261031_镜像连接页_iPhone13.png",
+      "sha256": "f1867965003733cd7d38b6131b5b4cd55eec717251b4f72dde749c9207b231b2"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/11_20261031_镜像中断_iPhone使用中.png",
+      "sha256": "77ad9878dd4830c507cf45066dfc34a7dad561c9ee2d44eae95bd0d2b59051e9"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/12_20261031_录像回放_原始桌面.png",
+      "sha256": "9ab991a9da707232ad1e19bb596e9c7fe9e2d17384308d1a283655646a4c7156"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/12_20261031_录像回放_顶部分类与搜索.png",
+      "sha256": "d45f1b12852d71489f6f433e20e5e9fd1df62715269801ed87a52110db8b6e82"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/13_恢复镜像_菜单全页.png",
+      "sha256": "38b2b5b02992e18b75f9b72944f79931f44e54116ee2a869112583c28f57346b"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/14_设备设置_连接中_上半页.png",
+      "sha256": "a9f729419da67a77380cf413fe1083a045a1f0fdbbaf69d5cff94d2af0247cc6"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/15_设备设置_无信号_固件字段空白.png",
+      "sha256": "256f68fdbc33abf724987a9b298ae722a4422630dc792837260da46c410e62ef"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/16_智能通知_紧急状况与居家安全.png",
+      "sha256": "c8424f64a39c39856ffe3816b7d07e57846ce2e12082b602ee4ae8789ec59de1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/17_智能通知_健康侦测与异常行为.png",
+      "sha256": "b40e168d5fb8dad14812da668e90dbcd5527a7dae3b6d35c5ff55d74cf4381e6"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/18_智能通知_异常行为与活动.png",
+      "sha256": "66a846427e5b7eaeacb5494d17d3e126bf328dc53e0a182506bd20229edcacc1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/19_智能通知_活动与断线提醒_底部.png",
+      "sha256": "acf87d0a3b5b15df4dce9729961ec7a6404bb62d84d47acb2da3a2d1e7aba195"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/20_设备设置_固件045-003015与信号一般.png",
+      "sha256": "df894d507b6faafe7f20fad1d7c00ed1a7f7b1f895de60d0d5c9dd036c501864"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/21_设备设置_1440p与当前配置.png",
+      "sha256": "154cbf910bec35adf992a3bb27c27ffe533e92bd80222ee0f146ae793d9c55c7"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/22_账号_手机账号与登出入口.png",
+      "sha256": "95946c40214fa20811d530b77bf489c9f3ad8339da3ab32c09d8895eb104669d"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/23_画中画_说明与现有开关状态.png",
+      "sha256": "511628570e104e3475076ef06c36e4d8d85eb3e39bf8fe96ef7983706dd48051"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/24_帮助_FAQ与联系入口.png",
+      "sha256": "2fe8d65fada4974b131d63f0fb4b9c533698e64820d67f1801ce43c6931b23b7"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/25_恢复镜像后首页_连接中断与AI等待.png",
+      "sha256": "49ae924e6abdacdbde2f9b475141540d948d51fed3cd2d96768280c3a0b0c6a7"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/26_横屏实时查看_连接至客厅.png",
+      "sha256": "a4ed5bd6f04c6861d6f614daaf858cfdaea366fb0a239b47a475923b90034bb0"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/27_连接失败_确认FurboMini360型号.png",
+      "sha256": "1ad3e2475b6b6dc1461eb63ed13dc5175c8017021127f83a5ca9a186a2d3d857"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/28_镜像锁定_需本机验证.png",
+      "sha256": "2f1fdb46f02b47cb24937304a91102b798745350a2f10304aef0988472f94269"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/29_AI展开_爱宠管家聊与提示.png",
+      "sha256": "3bb7b8fb22ac7a966f34c5b297ce8de1d35a6b49895224f38a8a5eb5ac97832d"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/30_AI收起_返回首页.png",
+      "sha256": "f5fb9e96accb68ccd6a1b9694db056d66391118745f9d08ffff2478531125db6"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/31_宠物头像_毛孩子档案上半页.png",
+      "sha256": "d54b36a2c7036641b353f0d38453fd69ffcc89f0d5c1ef589c43ff5cb0ceabd8"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/32_毛孩子档案_字段与保存删除入口.png",
+      "sha256": "d6941fb3eee1a9a3e3979b81493821161f8a146df1ea4d30143f414c62b13337"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/33_档案退出_未保存信息提示.png",
+      "sha256": "d7ce84d580053bb35a0669af0e31a34ed3353aab52b1c74096dc6e8582140ac9"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/34_历史视频_所有事件当前首屏.png",
+      "sha256": "37b66c6937836524c27734b3eadfc7e38693527bb2ef6ca3cacbb8c675f3fb85"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/35_爱的收藏夹_空状态与50片段文案.png",
+      "sha256": "b47d3a454ff745cd76ec650185998e6f3d4baaf339913e011f970249011ef8f9"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/36_报告_10月30日Vlog与回忆精选.png",
+      "sha256": "b4ebfd54342cd59ead912b0d7f2106feda0357907588b531c14fcf2a42d8bd76"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/37_报告_10月31日生成中提示.png",
+      "sha256": "73e18a650e926d5c6f24ec0cdefa81cd75d493b2fc05c0c8e923d6b4502e1368"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/38_报告_月历展开.png",
+      "sha256": "eb0f19be5a2d5052c9c235ace0c3f62314f1657b14f6d7c4794d33d61c061262"
+    }
+  ],
+  "exact_duplicate_groups": [],
+  "original_integrity": true,
+  "baseline_originals": [
+    {
+      "path": "00_项目管理/测评环境信息.md",
+      "sha256": "8365109b086839bebc295a846df97c0d79ea039bb50ae61002b11ab1facdf371"
+    },
+    {
+      "path": "00_项目管理/测评计划.md",
+      "sha256": "0d9abf309dcb6484667c6d8f4379b7a97ceca96d4954260e945af58fa56ffe2b"
+    },
+    {
+      "path": "00_项目管理/测评进度总览.md",
+      "sha256": "4cd0b2a5d852c76f54f0a529ceda2d19a51d8769aff9828c4814c28222cbd44a"
+    },
+    {
+      "path": "01_产品基础档案/App信息架构.md",
+      "sha256": "2021f9601aa2a8ccb232013a37699bc91a5e807e71d76eb51dc88eed266d3ea1"
+    },
+    {
+      "path": "01_产品基础档案/硬件能力清单.md",
+      "sha256": "183020a57e1f67942272fcf6a47c3970552e80e1aac144f1e351f049b67a89b0"
+    },
+    {
+      "path": "01_产品基础档案/设备基础信息.md",
+      "sha256": "6907bad00081612aee7be18a7060eeec1d8732a9d7d0a68105410ff2c951e9a8"
+    },
+    {
+      "path": "02_App体验测评/首页体验测评.md",
+      "sha256": "6f4a669e40fc42d8a42c1f1014e9ddb1c0f62a1cb95d77438b522cb02ed62437"
+    },
+    {
+      "path": "evidence/阶段1_基础档案_证据索引.md",
+      "sha256": "3629a1a0b6194d2e36101447481d0a91863b51db9e046f4b0410dd7a24d3c00d"
+    },
+    {
+      "path": "screenshots/00_环境检查_手机镜像可见.png",
+      "sha256": "cda5c6a841d8566302670e88c0fd76527fb6d4ca2dac297fe7a4d6d9ecf1e9aa"
+    },
+    {
+      "path": "screenshots/00_环境检查_桌面截图.png",
+      "sha256": "004aa588d305ec31e2aede2c5acdf7f1ef896672513648835794ab11a2d9f7f1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/01_首页_底部导航可见.png",
+      "sha256": "ca9b71f1444b0ade7855eca72cd30a967106762b869b5dfe36552c91d076a7f1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/02_报告页_日志与视频卡片.png",
+      "sha256": "8c78181d7b43966e830c6eb276fa925b068905b4df82a5d2041cc2ad6bc8d976"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/03_AI对话_消息流.png",
+      "sha256": "07db037ac805044beae503c25a63f2351d00875f279f250aea842b4b26597c4a"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/04_视频回放_可返回.png",
+      "sha256": "d23cac28a3f02c7f0e7b3825b1b3ae44eb9f3f32aae225ff0e20bd58fa5817db"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/05_AI对话_视频回放返回后.png",
+      "sha256": "5c9e22306e9a4fb2c0de63c998531460638bf72c8b5299c607a1408fe43c9261"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/06_视频_录像回放页.png",
+      "sha256": "f2490c26c099c9fe74006453cb1b3e1326d18ce8c3365e3be9730c940a891041"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/07_菜单_账号会员App设置.png",
+      "sha256": "0881790f4098a802cd73a664d86fdd7b7b5eb8ad26372bed8f335f8def017e1d"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/08_首页_连接中断反馈.png",
+      "sha256": "1b53762d4e703882d3817c41bbaf5cfd04c5e989ee840ac53625cd50c1648d97"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/09_视频_录像回放列表.png",
+      "sha256": "787ee3ef45249ee997cae2e9b2a27beba0ce67cae47e7ccdf268230e807bbed8"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/10_20261031_镜像连接页_iPhone13.png",
+      "sha256": "f1867965003733cd7d38b6131b5b4cd55eec717251b4f72dde749c9207b231b2"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/11_20261031_镜像中断_iPhone使用中.png",
+      "sha256": "77ad9878dd4830c507cf45066dfc34a7dad561c9ee2d44eae95bd0d2b59051e9"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/12_20261031_录像回放_原始桌面.png",
+      "sha256": "9ab991a9da707232ad1e19bb596e9c7fe9e2d17384308d1a283655646a4c7156"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/12_20261031_录像回放_顶部分类与搜索.png",
+      "sha256": "d45f1b12852d71489f6f433e20e5e9fd1df62715269801ed87a52110db8b6e82"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/13_恢复镜像_菜单全页.png",
+      "sha256": "38b2b5b02992e18b75f9b72944f79931f44e54116ee2a869112583c28f57346b"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/14_设备设置_连接中_上半页.png",
+      "sha256": "a9f729419da67a77380cf413fe1083a045a1f0fdbbaf69d5cff94d2af0247cc6"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/15_设备设置_无信号_固件字段空白.png",
+      "sha256": "256f68fdbc33abf724987a9b298ae722a4422630dc792837260da46c410e62ef"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/16_智能通知_紧急状况与居家安全.png",
+      "sha256": "c8424f64a39c39856ffe3816b7d07e57846ce2e12082b602ee4ae8789ec59de1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/17_智能通知_健康侦测与异常行为.png",
+      "sha256": "b40e168d5fb8dad14812da668e90dbcd5527a7dae3b6d35c5ff55d74cf4381e6"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/18_智能通知_异常行为与活动.png",
+      "sha256": "66a846427e5b7eaeacb5494d17d3e126bf328dc53e0a182506bd20229edcacc1"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/19_智能通知_活动与断线提醒_底部.png",
+      "sha256": "acf87d0a3b5b15df4dce9729961ec7a6404bb62d84d47acb2da3a2d1e7aba195"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/20_设备设置_固件045-003015与信号一般.png",
+      "sha256": "df894d507b6faafe7f20fad1d7c00ed1a7f7b1f895de60d0d5c9dd036c501864"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/21_设备设置_1440p与当前配置.png",
+      "sha256": "154cbf910bec35adf992a3bb27c27ffe533e92bd80222ee0f146ae793d9c55c7"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/22_账号_手机账号与登出入口.png",
+      "sha256": "95946c40214fa20811d530b77bf489c9f3ad8339da3ab32c09d8895eb104669d"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/23_画中画_说明与现有开关状态.png",
+      "sha256": "511628570e104e3475076ef06c36e4d8d85eb3e39bf8fe96ef7983706dd48051"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/24_帮助_FAQ与联系入口.png",
+      "sha256": "2fe8d65fada4974b131d63f0fb4b9c533698e64820d67f1801ce43c6931b23b7"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/25_恢复镜像后首页_连接中断与AI等待.png",
+      "sha256": "49ae924e6abdacdbde2f9b475141540d948d51fed3cd2d96768280c3a0b0c6a7"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/26_横屏实时查看_连接至客厅.png",
+      "sha256": "a4ed5bd6f04c6861d6f614daaf858cfdaea366fb0a239b47a475923b90034bb0"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/27_连接失败_确认FurboMini360型号.png",
+      "sha256": "1ad3e2475b6b6dc1461eb63ed13dc5175c8017021127f83a5ca9a186a2d3d857"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/28_镜像锁定_需本机验证.png",
+      "sha256": "2f1fdb46f02b47cb24937304a91102b798745350a2f10304aef0988472f94269"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/29_AI展开_爱宠管家聊与提示.png",
+      "sha256": "3bb7b8fb22ac7a966f34c5b297ce8de1d35a6b49895224f38a8a5eb5ac97832d"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/30_AI收起_返回首页.png",
+      "sha256": "f5fb9e96accb68ccd6a1b9694db056d66391118745f9d08ffff2478531125db6"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/31_宠物头像_毛孩子档案上半页.png",
+      "sha256": "d54b36a2c7036641b353f0d38453fd69ffcc89f0d5c1ef589c43ff5cb0ceabd8"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/32_毛孩子档案_字段与保存删除入口.png",
+      "sha256": "d6941fb3eee1a9a3e3979b81493821161f8a146df1ea4d30143f414c62b13337"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/33_档案退出_未保存信息提示.png",
+      "sha256": "d7ce84d580053bb35a0669af0e31a34ed3353aab52b1c74096dc6e8582140ac9"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/34_历史视频_所有事件当前首屏.png",
+      "sha256": "37b66c6937836524c27734b3eadfc7e38693527bb2ef6ca3cacbb8c675f3fb85"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/35_爱的收藏夹_空状态与50片段文案.png",
+      "sha256": "b47d3a454ff745cd76ec650185998e6f3d4baaf339913e011f970249011ef8f9"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/36_报告_10月30日Vlog与回忆精选.png",
+      "sha256": "b4ebfd54342cd59ead912b0d7f2106feda0357907588b531c14fcf2a42d8bd76"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/37_报告_10月31日生成中提示.png",
+      "sha256": "73e18a650e926d5c6f24ec0cdefa81cd75d493b2fc05c0c8e923d6b4502e1368"
+    },
+    {
+      "path": "screenshots/阶段1_基础档案/38_报告_月历展开.png",
+      "sha256": "eb0f19be5a2d5052c9c235ace0c3f62314f1657b14f6d7c4794d33d61c061262"
+    }
+  ]
+}
