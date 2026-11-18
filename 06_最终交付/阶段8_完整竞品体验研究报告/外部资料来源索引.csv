@@ -1,0 +1,20 @@
+source_id,source_name,source_type,source_url,region,collected_date,verification_status,supported_claim,limitations
+F01,Furbo Nanny,官方,https://furbo.com/us/pages/furbo-nanny,美国,2026-11-11,已核对,无订阅基础能力、Standard/Premium、3/7天历史、美国价格与试用文案,页面价格和试用文案存在冲突
+F02,Furbo Nanny,官方,https://furbo.com/sg/pages/furbo-nanny,新加坡,2026-11-11,已核对,地区套餐展示可访问,页面计划抓取为美元结构，不能当作SGD结算价
+F03,Furbo Mini 360产品页,官方,https://furbo.com/us/products/furbo-mini-360,美国,2026-11-11,已核对,产品定位、2K宣传与订阅组合说明,官方规格不替代实机码流测试
+F04,Furbo Mini 360产品页,官方,https://furbo.com/sg/products/furbo-mini-360,新加坡,2026-11-11,已核对,S$33设备价、促销和Standard首年口径,地区促销与美国价格不可合并
+F05,Terms & Conditions,官方,https://furbo.com/us/pages/terms-conditions,美国,2026-11-11,部分核对,条款入口可访问,未形成清晰退款/到期结论
+F06,Furbo Help Center,官方,https://help.furbo.com/hc/en-us,英文,2026-11-11,无法取得,帮助中心返回403,未绕过访问限制
+P01,Apple App Store,平台,https://apps.apple.com/us/app/furbo/id1138797716,美国请求,2026-11-11,无法用于评论统计,请求重定向到中国区Today页；RSS仅返回feed元信息,无法取得逐条评论
+P04,Google Play订阅帮助,平台,https://support.google.com/googleplay/answer/7018481,Google Play,2026-11-11,无法取得,请求超时,未绕过限制
+U01,Amazon检索页,用户评价平台,https://www.amazon.com/s?k=Furbo+Mini+360,美国,2026-11-16,无法形成样本,页面可访问但未建立可核验、去重且型号明确的评论样本,不把搜索页商品数当评论样本
+U02,Reddit搜索接口,用户社区,https://www.reddit.com/search.json?q=Furbo%20Mini%20360&limit=5,全球,2026-11-16,无法取得,请求超时,不使用搜索摘要或推测
+U03,Trustpilot Furbo,品牌评价,https://www.trustpilot.com/review/furbo.com,全球,2026-11-16,无法取得,返回403,品牌级反馈不能直接归入Mini 360
+M01,WIRED宠物摄像机评测检索,专业媒体,https://www.wired.com/,全球,2026-11-16,无法形成Mini 360直接样本,本阶段未取得可直接核验且明确匹配Mini 360°的文章,不使用搜索摘要或品牌级文章
+M02,The Independent产品评测检索,专业媒体,https://www.independent.co.uk/,全球,2026-11-16,无法形成Mini 360直接样本,本阶段未取得可直接核验且明确匹配Mini 360°的文章,不使用搜索摘要
+M03,Snoutbench评测检索,专业媒体,https://www.snoutbench.com/,全球,2026-11-16,无法取得,当前环境未形成可核验文章记录,不绕过访问限制
+M04,MadeForMums评测检索,专业媒体,https://www.madeformums.com/,全球,2026-11-16,无法形成Mini 360直接样本,未取得可直接核验且明确匹配Mini 360°的文章,不使用搜索摘要
+M05,Cats.com评测检索,专业媒体,https://cats.com/,全球,2026-11-16,无法形成Mini 360直接样本,未取得可直接核验且明确匹配Mini 360°的文章,品牌/品类内容不混入Mini 360统计
+V01,YouTube公开视频检索,公开视频,https://www.youtube.com/,全球,2026-11-16,无法形成独立实测样本,未取得可核验且无明确商业关系说明的Mini 360视频样本,不把宣传视频当独立评测
+V02,B站公开视频检索,公开视频,https://www.bilibili.com/,中国,2026-11-16,无法形成独立实测样本,未取得可核验且无明确商业关系说明的Mini 360视频样本,不把宣传视频当独立评测
+P05,Apple Search/Lookup API,App级公开聚合指标,https://itunes.apple.com/lookup?id=999707163,美国,2026-11-16,已核对,当前Furbo App整体评分4.78465和评分数5591,仅作为App级公开指标；不等同Mini 360硬件评分，不进入逐条评论主题/情感统计

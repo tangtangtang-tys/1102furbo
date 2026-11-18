@@ -1,0 +1,2 @@
+metric_id,source_id,source_name,source_type,source_url,app_id,app_name,bundle_id,as_of_date,rating_scale,average_rating,rating_count,product_scope,verification_status,limitations
+APP-AGG-001,P05,Apple Search/Lookup API,App级公开聚合指标,https://itunes.apple.com/lookup?id=999707163,999707163,Furbo - smartest pet camera,com.tomofun.furbo,2026-11-16,5,4.78465,5591,Furbo App整体，不等同于Mini 360°硬件,已取得公开聚合数据；未取得逐条评论,不能用于Mini 360°硬件评分、主题、情感或痛点统计
